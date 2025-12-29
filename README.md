@@ -44,7 +44,9 @@ student_grade_predictor/
 ├── app.py                                             # Streamlit Web Application entry point
 ├── main.py                                            # CLI Orchestrator for training & testing
 ├── requirements.txt                                   # Project dependencies
+├── license.md
 └── README.md                                          # Documentation (this file)
+
 ```
 ---
 ## Model Evaluation
@@ -65,4 +67,111 @@ The model is evaluated using standard regression metrics to ensure accuracy and 
 Regression plots are automatically generated and saved after execution.
 
 
-![Regression Plot](images/regression_line.png)
+![Regression Plot](https://github.com/Ashish1100/Assignment_Student-Grade-Predictor-using-Linear-Regression/blob/main/images/run_2025-12-29_19-27-05/regression_line.png)
+
+---
+
+## Installation & Setup
+
+### 1. Clone the Repository
+```text
+git clone https://github.com/Ashish1100/Assignment_Student-Grade-Predictor-using-Linear-Regression.git
+
+cd student_grade_predictor
+```
+
+### 2. Set Up a Virtual Environment
+It is recommended to use an isolated environment for dependency management.
+
+**Windows**
+```text
+python -m venv venv
+.\venv\Scripts\activate
+```
+**macOS / Linux**
+```text
+python3 -m venv venv
+source venv/bin/activate
+```
+
+### 3. Install Dependencies
+```text
+pip install -r requirements.txt
+```
+---
+## How to Run
+
+### Full Pipeline (Train & Evaluate)
+Runs the complete pipeline including data generation, model training, evaluation, and visualization.
+```text
+python main.py
+```
+**Output**
+- Creates a timestamped folder under images/
+- Saves the trained model to models/latest_model.pkl
+
+
+### Launch the Web App
+Starts the Streamlit dashboard for real-time predictions using the latest trained model.
+```text
+streamlit run app.py
+```
+
+---
+
+## **License**
+
+```
+© 2025 Ashish Saha
+
+This project is a personal initiative intended for educational use only.
+
+Permission is granted to use, copy, and modify this software for learning and research purposes.
+Commercial use, sale, or monetization of this software or its derivatives is strictly prohibited.
+
+The software is provided “as is”, without warranty of any kind.
+
+```
+
+---
+
+
+## **Author**
+
+<div align="center">
+
+### **Ashish Saha**
+**Machine Learning Research** | **AI Engineering** | **Data Science**
+
+*Specializing in building intelligent ML systems and transforming data into actionable insights.*
+
+**Tech Stack:** Python • TensorFlow/Keras • PyTorch • XGBoost • Scikit-learn 
+
+<a href="https://github.com/Ashish1100" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/ashishsaha21/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:ashishsaha.software@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+</div>
+
+
+
+---
+
+</div>
+
+<div align="center">
+
+### **Star ⭐ this repo if you found this project helpful!**
+
+
+---
+
+*Made with ❤️ by Ashish Saha*
+
+</div>
