@@ -35,7 +35,8 @@ Try the application instantly on your preferred platform:
 ```text
 student_grade_predictor/
 │
-├── data/                                              # Contains dataset (student_scores.csv)
+├── data/                                              # Contains dataset
+|   └── student_scores.csv
 ├── images/                                            # Stores generated plots, organized by run timestamp
 │   └── run_2025.../                                   # Specific folder for each training run
 ├── models/                                            # Stores trained models
@@ -43,6 +44,7 @@ student_grade_predictor/
 │   └── latest_model.pkl                               # Active version used by the App
 ├── notebook/              
 │   ├── Assignment_Student_Grade_Predictor.ipynb       # Complete notebook (simplicity)
+|   ├── Assignment_Student_Grade_Predictor.py
 |   └── Assignment_Student_Grade_Predictor.html
 │
 ├── src/                                               # Source code modules
