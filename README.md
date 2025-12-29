@@ -3,9 +3,9 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
 ![Frontend](https://img.shields.io/badge/Frontend-Streamlit-red)
-[![Status: Completed](https://img.shields.io/badge/Status-Completed-green.svg)](https://github.com/Ashish1100/Project_Real-Time-Cryptocurrency-Price-Prediction/blob/main/license.md)
+[![Status: Completed](https://img.shields.io/badge/Status-Completed-green.svg)](https://github.com/Ashish1100Assignment_Student-Grade-Predictor-using-Linear-Regression/blob/main/license.md)
 
-## Project Overview
+## Assignment Overview
 The **Student Grade Predictor** is a Machine Learning application designed to predict a student's potential exam score based on their study hours.
 It features automated data pipelines, model versioning (archiving), performance visualization, and a user-friendly web interface.
 
@@ -31,7 +31,7 @@ Try the application instantly on your preferred platform:
 
 ---
 
-## Project Structure
+## Repository Structure
 ```text
 student_grade_predictor/
 │
@@ -56,7 +56,7 @@ student_grade_predictor/
 │
 ├── app.py                                             # Streamlit Web Application entry point
 ├── main.py                                            # CLI Orchestrator for training & testing
-├── requirements.txt                                   # Project dependencies
+├── requirements.txt                                   # Assignment dependencies
 ├── license.md
 └── README.md                                          # Documentation (this file)
 
@@ -137,7 +137,7 @@ streamlit run app.py
 ```
 © 2025 Ashish Saha
 
-This project is a personal initiative intended for educational use only.
+This assignment is a personal initiative intended for educational use only.
 
 Permission is granted to use, copy, and modify this software for learning and research purposes.
 Commercial use, sale, or monetization of this software or its derivatives is strictly prohibited.
