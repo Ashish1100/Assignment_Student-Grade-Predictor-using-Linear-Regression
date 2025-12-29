@@ -20,6 +20,12 @@ It features automated data pipelines, model versioning (archiving), performance 
 
 ---
 
+## Live Demo
+Try the application instantly without installing anything:
+[**Click Here to Launch the Web App**](https://assignment-student-grade-predictor-using-linear-regression.streamlit.app/)
+
+---
+
 ## Project Structure
 ```text
 student_grade_predictor/
