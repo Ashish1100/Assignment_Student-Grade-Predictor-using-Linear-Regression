@@ -20,9 +20,14 @@ It features automated data pipelines, model versioning (archiving), performance 
 
 ---
 
-## Live Demo
-Try the application instantly without installing anything:
-[**Click Here to Launch the Web App**](https://assignment-student-grade-predictor-using-linear-regression.streamlit.app/)
+## Live Demos
+Try the application instantly on your preferred platform:
+
+| Platform | Status | Link |
+| :--- | :--- | :--- |
+| **Streamlit Cloud** | Online | [**Launch App**](https://assignment-student-grade-predictor-using-linear-regression.streamlit.app/) |
+| **Render** | Online | [**Launch App**](https://assignment-student-grade-predictor-using.onrender.com) |
+
 
 ---
 
