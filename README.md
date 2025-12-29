@@ -178,7 +178,7 @@ The software is provided “as is”, without warranty of any kind.
 
 <div align="center">
 
-### **Star ⭐ this repo if you found this project helpful!**
+### **Star ⭐ this repo if you found this assignment helpful!**
 
 
 ---
