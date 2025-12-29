@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
 ![Frontend](https://img.shields.io/badge/Frontend-Streamlit-red)
-![License](https://img.shields.io/badge/License-MIT-green)
+[![Status: Completed](https://img.shields.io/badge/Status-Completed-green.svg)](https://github.com/Ashish1100/Project_Real-Time-Cryptocurrency-Price-Prediction/blob/main/license.md)
 
 ## Project Overview
 The **Student Grade Predictor** is a Machine Learning application designed to predict a student's potential exam score based on their study hours.
