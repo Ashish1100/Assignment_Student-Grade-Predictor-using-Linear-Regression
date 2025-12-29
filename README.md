@@ -1,9 +1,15 @@
-# Student Grade Predictor using Simple Linear Regression
+<div align="center"> 
+
+# **Student Grade Predictor using Simple Linear Regression**
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
 ![Frontend](https://img.shields.io/badge/Frontend-Streamlit-red)
 [![Status: Completed](https://img.shields.io/badge/Status-Completed-green.svg)](https://github.com/Ashish1100Assignment_Student-Grade-Predictor-using-Linear-Regression/blob/main/license.md)
+
+</div>
+
+---
 
 ## Assignment Overview
 The **Student Grade Predictor** is a Machine Learning application designed to predict a student's potential exam score based on their study hours.
