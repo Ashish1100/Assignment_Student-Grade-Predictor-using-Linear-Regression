@@ -57,7 +57,8 @@ student_grade_predictor/
 ├── app.py                                             # Streamlit Web Application entry point
 ├── main.py                                            # CLI Orchestrator for training & testing
 ├── requirements.txt                                   # Assignment dependencies
-├── license.md
+├── license.md                                         # Usage licence
+├── info.pdf                                           # Some important instructions
 └── README.md                                          # Documentation (this file)
 
 ```
