@@ -25,8 +25,8 @@ Try the application instantly on your preferred platform:
 
 | Platform | Status | Link |
 | :--- | :--- | :--- |
-| **Streamlit Cloud** | Online | [**Launch App**](https://assignment-student-grade-predictor-using-linear-regression.streamlit.app/) |
-| **Render** | Online | [**Launch App**](https://assignment-student-grade-predictor-using.onrender.com) |
+| **Streamlit Cloud** | Active | [**Launch App**](https://assignment-student-grade-predictor-using-linear-regression.streamlit.app/) |
+| **Render** | Active | [**Launch App**](https://assignment-student-grade-predictor-using.onrender.com) |
 
 
 ---
